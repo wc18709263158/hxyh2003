@@ -1,0 +1,6 @@
+git check
+git loft
+git reset --hard head
+git push -u origin master
+git check out master
+git 
